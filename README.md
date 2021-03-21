@@ -1,18 +1,15 @@
 # CPO-Oreo
+
 Course: Computational Process Organization (2021)
 Teacher: Aleksandr Penskoi (ITMO)
 
 Group Name: Oreo
-Group Members: Liang Ziyi, Liu Yixuan
 
-Lab1:Different approach for algorithms and data structure implementation
+Group Members: 
 
-Variant:7
++ Liang Ziyi(ID:202320060)
++ Liu Yixuan(ID:202320063)
 
-Synopsis:
+------
 
-Contribution summary for each group member:
-
-Work demonstration:
-
-Conclusion:
+[Lab1:Different approach for algorithms and data structure implementation(Variant:7)](https://github.com/aci456852/CPO-Oreo/tree/main/src/Lab1)
